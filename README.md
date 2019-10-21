@@ -1,2 +1,3 @@
 # compchemtools
-Python programs for manipulation of molecular structures in .XYZ format
+Miscellaneous utilities for Computational Chemistry/Quantum Chemistry/Molecular Dynamics codes and calculations
+
